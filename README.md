@@ -4,7 +4,7 @@ In our all-in-one interactive Python notebook (<b>Myositis_Network.ipynb</b>), y
 
 Optionally, you can then analyze your transcriptional profile with our convolutional neural network, receive an estimated diagnosis, and view how the profile clusters as compared with our cohort of patients. Please see the notebook for further instructions and source code. 
 
-The dependencies of this code are (<b>1</b>) the files included in our repository, (<b>2</b>) the Cytoscape session file, which can be downloaded from the journal publisher's website (link to follow), and (<b>3</b>) several free Python packages, depending on which analyses in our notebook you need to run. See the notebook for further details.
+The dependencies of this code are (<b>1</b>) the files included in our repository, (<b>2</b>) the Cytoscape session file, which can be downloaded from figshare (https://figshare.com/articles/dataset/myositis_cys/16602497), and (<b>3</b>) several free Python packages, depending on which analyses in our notebook you need to run. See the notebook for further details.
 
 Feel free to contact me with suggestions for additional features or to report any bugs. Best regards,
 
